@@ -1,0 +1,82 @@
+.wrapper, space1{
+    width: 100px;
+    height: 100px;
+    top: -100px;
+}
+
+.space{
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+    top: -100px;
+}
+
+#space2 {
+    opacity: 0.5;
+    position: absolute;
+    width: 1600px;
+    top: -20%;
+    left: 0%;
+    height: 850px;
+}
+
+#space3 {
+    opacity: 1;
+    position: absolute;
+    width: 1600px;
+    top: -10%;
+    left: 0%;
+    height: 812px;
+}
+
+#space4 {
+    opacity: 0.6;
+    position: absolute;
+    width: 1600px;
+    height: 900px;
+    top: -70%;
+    left: 0%;
+    transform: rotate(180deg);
+}
+
+#space5 {
+    opacity: 0.4;
+    position: absolute;
+    width: 1600px;
+    top: -10%;
+    left: 0%;
+    height: 810px;  
+}
+
+#space6 {
+    opacity: 0.1;
+    position: absolute;
+    width: 100px;
+    top: 50%;
+    left: 50%    
+}
+
+#space7 {
+    opacity: 1;
+    position: absolute;
+    width: 200px;
+    top: 10%;
+    left: 40%;    
+    transform: rotate(180deg);
+}
+
+#space9 {
+    opacity: 0.6;
+    position: absolute;
+    width: 100px;
+    top: 30%;
+    left: 90%    
+}
+
+#space10 {
+    opacity: 0.7;
+    position: absolute;
+    width: 300px;
+    top: 15%;
+    left: 0%    
+}
